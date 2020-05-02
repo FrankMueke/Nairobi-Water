@@ -1,2 +1,2 @@
 # Nairobi-Water
-Have included tge db "water1"
+Have included the db "water1"
